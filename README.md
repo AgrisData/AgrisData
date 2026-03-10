@@ -62,10 +62,6 @@ En el campo, los datos son la semilla y el código es el abono.
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=VISITAS%20AL%20PERFIL&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
 <h4 align="center">
   
 ```diff
