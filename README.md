@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f33e/512.gif" width="32px"> 
-  Ingeniero Washington Vera - AgrisData
+  Ingeniero Washington Vera 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f69c/512.gif" width="40px" />
 </h1>
 
